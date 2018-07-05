@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\Project\Clothing\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2238505157.index
+2926109915.index
+1712887973.index
+4246630174.index
+2561136340.index
+80822548.index
